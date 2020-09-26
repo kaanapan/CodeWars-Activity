@@ -89,7 +89,6 @@ def with_para(exp):
                 i +=1
             else:
                 i +=1
-        print("start : ", start, " end : ", i-1)
         a = with_para(exp[start+1:i-1])
         return with_para(exp[:start] + str(a) + exp[i:])
 
