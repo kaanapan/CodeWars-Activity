@@ -7,14 +7,12 @@ def next_smaller(n):
     n = swap(n, first, second + first + 1)
     return int(n[:first + 1] + "".join(sorted(n[first + 1:], reverse=True)))
 
-
 def find_first(n):
     for i in range(len(n) - 1, -1, -1):
         for char2 in n[i + 1:]:
             if n[i] > char2:
                 return i
     return -1
-
 
 def find_second(n, i):
     if i == -1:
@@ -27,9 +25,5 @@ def find_second(n, i):
             j_i = j
     return j_i
 
-
 def swap(n, i, j):
     return n[:i] + n[j] + n[i + 1:j] + n[i] + n[j + 1:]
-
-
-next_smaller("1262347")
