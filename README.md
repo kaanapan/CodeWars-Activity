@@ -26,32 +26,40 @@ Instead of putting all my solutions to this repository, I wanted to pick, arguab
 
 1. **[Block Sequence](https://www.codewars.com/kata/5e1ab1b9fe268c0033680e5f)**
 
-    **Summary**: 
+    **Summary**: Description cannot be summarized more.
 
-1. Factorial tail
+1. **[Factorial tail](https://www.codewars.com/kata/55c4eb777e07c13528000021)**
 
-1. Vigenère Cipher Helper
+      **Summary**: You are given a number and base. Need to return the trailing zeros in the resulting factorial in that base.
 
-1. Pyramid Slide Down
+1. **[Vigenère Cipher Helper](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3)**
 
-1. Next smaller number with the same digits
+      **Summary**: In this Kata you are expected to encode the given text according to Vigenère Cipher, and find a way to decipher back (Implement encode and decode function).
 
-1. Huffman Encoding
+1. **[Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037)**
+
+      **Summary**: You are given a pyramide and find a way to maximize your road.
+
+1. **[Next smaller number with the same digits](https://www.codewars.com/kata/5659c6d896bc135c4c00021e)**
+
+      **Summary**: Find the next smaller number than the given number with the same digits (Pretty much title explains itself).
+
+1. **[Huffman Encoding](https://www.codewars.com/kata/54cf7f926b85dcc4e2000d9d)**
+
+      **Summary**: Implementation of huffman encoding and decoding.
 
 
+# CodeWars Contributions 
 
+## Authored Katas
 
+These are the Katas that I authored.
 
+1. **[Paint Tiles](https://www.codewars.com/kata/5e297e9f63f1db003317cbac)**
 
+## Translated Katas
+These are the Katas that I translated from one language to another one.
 
+1. **[A Simplistic TCP Finite State Machine (FSM) (From Python to C++)](https://www.codewars.com/kata/54acc128329e634e9a000362)**
 
-
-These are all the Katas that I created, translated and solved in CodeWars which is a problem-solving website. 
-
-For the difficulty of the katas you can refer to this place (I'll not put here the Katas that I solved in yellow and white ones; however, I think the ones that I create and translate from one language to another worth mentioning): 
-[Kata Ranking](https://github.com/codewars/codewars.com/wiki/Kata-Ranking)
-
-# 4Kyu Katas
-
-1. [parseInt() Reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
-co
+1. **[Multiplication table(From Python to C++)](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)**
