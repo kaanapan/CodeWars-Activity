@@ -1,12 +1,10 @@
 
 
-This repository is not for CodeWarriors. If you are stuck while solving a problem and looking for a hint/solution, please ask a question about it. Please do not just jump into solution and copy-past a solution.  
-
-# CodeWars My Top 10 Solutions
-
-Instead of putting all my solutions to this repository, I wanted to pick, arguably, my top 10 solutions to the problems that I want to share with you. I also included the Katas that I created and translated from one language to another. If you want to see all my statistics in CodeWars please look at my profile: 
+This repository is not for CodeWarriors. If you are stuck while solving a problem and looking for a hint/solution, please ask a question about it. Please do not just jump into solution and copy-past a solution. Instead of putting all my solutions to this repository, I wanted to pick, arguably, my top 10 solutions to the problems that I want to share with you. I also included the Katas that I created and translated from one language to another. If you want to see all my statistics in CodeWars please look at my profile: 
 [lonkaan - CodeWars](https://www.codewars.com/users/lonkaan)   ![CodeWars Badge](https://www.codewars.com/users/lonkaan/badges/micro)
 
+
+### CodeWars My Top 10 Solutions
 
 1. **[Evaluate Mathematical Expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)**
 
@@ -48,18 +46,17 @@ Instead of putting all my solutions to this repository, I wanted to pick, arguab
 
       **Summary**: Implementation of huffman encoding and decoding.
 
-
-# CodeWars Contributions 
-
-## Authored Katas
+### Authored Katas
 
 These are the Katas that I authored.
 
-1. **[Paint Tiles](https://www.codewars.com/kata/5e297e9f63f1db003317cbac)**
+1. **[Paint Tiles (Approved)](https://www.codewars.com/kata/5e297e9f63f1db003317cbac)**
 
-## Translated Katas
+1. **[Minimum Transactions (in Beta)](https://www.codewars.com/kata/5eb5155b80e7b8002dd10226)**
+
+### Translated Katas
 These are the Katas that I translated from one language to another one.
 
 1. **[A Simplistic TCP Finite State Machine (FSM) (From Python to C++)](https://www.codewars.com/kata/54acc128329e634e9a000362)**
 
-1. **[Multiplication table(From Python to C++)](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)**
+1. **[Multiplication table (From Python to C++)](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)**
