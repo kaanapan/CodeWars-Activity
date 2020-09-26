@@ -7,11 +7,9 @@ This repository is not for CodeWarriors. If you are stuck while solving a proble
 ### CodeWars My Top 10 Solutions
 
 1. **[Evaluate Mathematical Expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)**
-
     **Summary**: In this Kata you are expected to evaluate every form of mathematical expression. It can consist of parantheses operations negative numbers(e.g '6 + -( -4)').  
 
 1. **[Simpler Interactive Interpreter](https://www.codewars.com/kata/53005a7b26d12be55c000243)**
-
     **Summary**: In this Kata you are expected to implement simple interpreter. It has variable assignment, mathematical expression evaluation, variable outputs and more. Check the link for more detailed explanation.
 
 1. **[Rail Fence Cipher](https://www.codewars.com/kata/58c5577d61aefcf3ff000081)**
