@@ -4,7 +4,7 @@ This repository is not for CodeWarriors. If you are stuck while solving a proble
 [lonkaan - CodeWars](https://www.codewars.com/users/lonkaan)   ![CodeWars Badge](https://www.codewars.com/users/lonkaan/badges/micro)
 
 
-### CodeWars My Top 10 Solutions
+## CodeWars My Top 10 Solutions
 
 1. **[Evaluate Mathematical Expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)**
     **Summary**: In this Kata you are expected to evaluate every form of mathematical expression. It can consist of parantheses operations negative numbers(e.g '6 + -( -4)').  
@@ -36,16 +36,12 @@ This repository is not for CodeWarriors. If you are stuck while solving a proble
 1. **[Huffman Encoding](https://www.codewars.com/kata/54cf7f926b85dcc4e2000d9d)**
       **Summary**: Implementation of huffman encoding and decoding.
 
-### Authored Katas
-
-These are the Katas that I authored.
+## Authored Katas
 
 1. **[Paint Tiles (Approved)](https://www.codewars.com/kata/5e297e9f63f1db003317cbac)**
 1. **[Minimum Transactions (in Beta)](https://www.codewars.com/kata/5eb5155b80e7b8002dd10226)**
 
-### Translated Katas
-These are the Katas that I translated from one language to another one.
+## Translated Katas
 
 1. **[A Simplistic TCP Finite State Machine (FSM) (From Python to C++)](https://www.codewars.com/kata/54acc128329e634e9a000362)**
-
 1. **[Multiplication table (From Python to C++)](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)**
