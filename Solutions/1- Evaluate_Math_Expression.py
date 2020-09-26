@@ -12,8 +12,6 @@ def without_para(exp):
         if i != len(exp):
             ops.append(exp[i])
             i+=1
-    print(numbers)
-    print(ops)
     #Complete double minuses
     j = 0
     while j < len(numbers):
@@ -31,8 +29,6 @@ def without_para(exp):
             else:
                 numbers.insert(j, float(a))
         j+=1
-    print(numbers)
-    print(ops)
     #Finish * and /
     while "*" in ops or "/" in ops:
         count_star = find_index(ops,"*")
@@ -86,10 +82,8 @@ def with_para(exp):
                 i +=1
             else:
                 i +=1
-        print("start : ", start, " end : ", i-1)
         a = with_para(exp[start+1:i-1])
         return with_para(exp[:start] + str(a) + exp[i:])
 
 def calc(exp):
-    print(exp)
     return with_para(exp)
