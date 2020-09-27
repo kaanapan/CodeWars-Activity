@@ -1,6 +1,6 @@
 **Disclaimer:**  This repository is not for CodeWarriors. If you are stuck while solving a problem and looking for a hint/solution, please ask a question about it. Please do not just jump into solution and copy-past a solution. 
 
-**Overview** : I wanted to pick, arguably, my top 10 solutions to the problems that I want to share with you instead of putting all my solutions to this repository. I also included the Katas that I created and translated from one language to another. If you want to see all my statistics in CodeWars please look at my profile: 
+**Overview** : I wanted to pick, arguably, my top 10 solutions to the problems that I want to share with you instead of putting all my solutions into this repository. I added the Katas that I created and translated from one language to another. If you want to see all my statistics in CodeWars please look at my profile: 
 [![CodeWars Badge](https://www.codewars.com/users/lonkaan/badges/large)](https://www.codewars.com/users/lonkaan)
 
 ## Authored Katas
