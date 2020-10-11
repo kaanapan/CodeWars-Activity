@@ -12,6 +12,7 @@
 
 1. **[A Simplistic TCP Finite State Machine (FSM) (From Python to C++)](https://www.codewars.com/kata/54acc128329e634e9a000362)**
 1. **[Multiplication table (From Python to C++)](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)**
+1. **[Help the general decode secret enemy messages. (From C++ to Python)](https://www.codewars.com/kata/52cf02cd825aef67070008fa)**
 
 ## CodeWars My Top 10 Solutions
 
