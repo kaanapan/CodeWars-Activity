@@ -6,7 +6,6 @@
 ## Authored Katas
 
 1. **[Paint Tiles (Approved)](https://www.codewars.com/kata/5e297e9f63f1db003317cbac)**
-1. **[Minimum Transactions (in Beta)](https://www.codewars.com/kata/5eb5155b80e7b8002dd10226)**
 
 ## Translated Katas
 
